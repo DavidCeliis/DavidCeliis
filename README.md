@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 I am a **Full-stack Developer** based in **Prague**, currently pursuing a degree in Applied Informatics at **VŠE FIS**.
 
-While I have a broad background in IT, my primary focus in recent years has shifted heavily towards **Frontend development**. I enjoy creating modern, responsive, and user-centric web applications. Currently, I am further sharpening my skills through intensive courses at **Scrimba**.
+While I have a broad background in IT, my primary focus in recent years has shifted heavily towards **Frontend development**. I enjoy creating modern, responsive, and user-centric web applications.
 
 ---
 
